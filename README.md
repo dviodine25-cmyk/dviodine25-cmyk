@@ -1,16 +1,41 @@
-## Hi there 👋
+# Princess Ida Camasis
 
-<!--
-**dviodine25-cmyk/dviodine25-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m a first-year student at **Bicol University**.  
+This space is where I collect my school work and small ideas. 😊
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 📚 I like learning new things one step at a time
+- 🎵 I enjoy music, casual games, and quiet afternoons
+- 🧠 I try to keep things simple and clear
+
+## Fun Stuff
+> “Small progress every day still counts.”
+
+- [My GitHub profile](https://github.com/dviodine25-cmyk)
+- Mood GIF:  
+  ![Happy Dance GIF](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
+
+## Skills (learning)
+- [x] Time management
+- [x] Note-taking
+- [x] Public speaking
+- [x] Teamwork & collaboration
+
+## Quick Facts
+| What      | Detail             |
+|:--------- |:-------------------|
+| Program   | Computer Science   |
+| School    | Bicol University   |
+| Favorite  | Milk tea & music   |
+| Motto     | Keep it simple     |
+
+## Snippets
+Inline example: `stay curious`
+
+```text
+Daily routine
+- Review notes
+- Do assignments
+- Take short breaks
